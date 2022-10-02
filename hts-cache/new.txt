@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:27:30	153/153	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2002%20Oct%202022%2021:27:32%20GMT	https://womginx.arph.org/robots.txt		(from )
+17:27:30	1758/1758	---M--	200	added ('OK')	text/html	etag:%2261df4c27-6de%22	https://womginx.arph.org/	C:/Users/user/Desktop/https___womginx.arph.org_/womginx.arph.org/index.html	(from )
+17:27:30	1299/1299	---M--	200	added ('OK')	text/css	etag:%2261c904cf-513%22	https://womginx.arph.org/index.css	C:/Users/user/Desktop/https___womginx.arph.org_/womginx.arph.org/index.css	(from https://womginx.arph.org/)
+17:27:31	23427/23427	---M-Z	200	added ('OK')	text/css	etag:%220f6a4209fd4d81:0%22	https://www.w3schools.com/w3css/4/w3.css	C:/Users/user/Desktop/https___womginx.arph.org_/www.w3schools.com/w3css/4/w3.css	(from https://womginx.arph.org/)
+17:27:31	118280/118280	---M--	200	added ('OK')	image/png	etag:%2261c904cf-1ce08%22	https://womginx.arph.org/logo.png	C:/Users/user/Desktop/https___womginx.arph.org_/womginx.arph.org/logo.png	(from https://womginx.arph.org/)
+17:27:32	91189/91189	---M--	200	added ('OK')	image/png	etag:%2261c904cf-16435%22	https://womginx.arph.org/logo-full.png	C:/Users/user/Desktop/https___womginx.arph.org_/womginx.arph.org/logo-full.png	(from https://womginx.arph.org/)
